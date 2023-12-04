@@ -2,10 +2,6 @@ import Sidebar from "../sidebar/sidebar";
 import "./navbar.scss"
 import {delay, motion} from "framer-motion"
 
-
-
-
-
 const Navbar = () => {
     return (
         <div className="navbar">
