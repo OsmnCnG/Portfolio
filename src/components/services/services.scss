@@ -117,6 +117,10 @@
             justify-content:space-between;
             img {
                 max-width: 200px;
+                aspect-ratio: 3/2;
+                object-fit: contain;
+                // mix-blend-mode: color-burn;
+                // mix-blend-mode:difference;
             }
         }
     }
